@@ -1,14 +1,36 @@
-# this file contains the social media links and usernames of the author
-# the socials will be displayed in the order they are defined here
-# for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
-email: you@example.com # your email address
-inspirehep_id: 1010907 # Inspire HEP author ID
-rss_icon: true # comment this line to hide the RSS icon
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
-# wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
-# whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
-  title: Custom Social
-  url: https://www.alberteinstein.com/
+# Social links - shown at the bottom of the about page
+
+email: farahanirashin@gmail.com
+# rss_icon: true
+orcid_id: 0009-0001-5092-3052
+scholar_userid: OO9lU8EAAAAJ
+# semanticscholar_id: 
+# publons_id: 
+# lattes_id: 
+# osf_id: 
+# research_gate_profile: Rashin-Gholijani-Farahani
+# scopus_id: 
+# zotero_username: 
+
+github_username: Rashiin
+# gitlab_username: 
+# stackoverflow_id: 
+# kaggle_id: 
+# lastfm_id: 
+
+linkedin_username: rashin-gholijani-farahani
+research_gate_profile: Rashin-Gholijani-Farahani
+
+# x_username: 
+# bluesky_url: 
+# mastodon_username: 
+# medium_username: 
+# quora_username: 
+# blogger_url: 
+# work_url: 
+# wikidata_id: 
+# wikipedia_id: 
+
+# strava_userid: 
+# keybase_username: 
+# gpg_id:
