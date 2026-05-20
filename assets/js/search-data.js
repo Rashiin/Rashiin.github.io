@@ -418,7 +418,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-project-1",
+            },},{id: "news-selected-as-a-fully-funded-start-research-fellow-at-jinr-dubna-joining-the-taiga-astroparticle-physics-collaboration-to-apply-ml-to-large-scale-physics-data",
+          title: '🚀 Selected as a fully funded START Research Fellow at JINR, Dubna —...',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
