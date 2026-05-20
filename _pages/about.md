@@ -9,8 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: true
   more_info: >
-    <p>Karaj, Iran</p>
-    <p>📧 <a href="mailto:farahanirashin@gmail.com">farahanirashin[at]gmail[dot]com</a></p>
+    <p>📍 Karaj, Iran</p>
+    <p>🎓 MSc AI · BSc CE</p>
+    <p>💼 Open to PhD opportunities</p>
     
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
