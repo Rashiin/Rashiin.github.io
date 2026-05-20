@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: MSc AI Student & Researcher | Machine Learning • Deep Learning • LLMs • Reinforcement Learning • Multimodal & Trustworthy AI • Healthcare AI • NLP • Computer Vision
+subtitle: MSc AI Student & Researcher | START Fellow @ JINR | M2L 2025 Scholar | Machine Learning • Deep Learning • LLMs • Reinforcement Learning • Multimodal & Trustworthy AI • Healthcare AI • NLP • Computer Vision
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Karaj, Iran</p>
-    <p>📧 {% raw %}{{ "farahanirashin@gmail.com" | encode_email }}{% endraw %}</p>
-    
+    <p>📧 <a href="mailto:farahanirashin@gmail.com">farahanirashin[at]gmail[dot]com</a></p>
+
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
@@ -26,10 +26,12 @@ latest_posts:
   limit: 3
 ---
 
-Hi! I'm **Rashin Gholijani Farahani**, an MSc student in Artificial Intelligence and an aspiring researcher passionate about building **data-efficient, explainable, and trustworthy machine learning systems** with real-world impact. I completed my BSc in three years with distinction and currently maintain a top-tier academic standing in my master's program, alongside teaching programming and AI fundamentals to early-career learners.
+Hi! I'm **Rashin Gholijani Farahani**, an MSc Artificial Intelligence student and aspiring researcher passionate about building **data-efficient, explainable, and trustworthy machine learning systems** with real-world impact. I completed my BSc in Computer Engineering in **three years** as the **Top Graduate of 2024** and currently maintain a **19.27/20 GPA** in my master's program, while teaching programming and AI fundamentals to over 100 students at the Tehran Institute of Technology.
 
-My research interests are broad and interdisciplinary, spanning **deep learning**, **reinforcement learning**, **natural language processing**, **computer vision**, **speech and audio processing**, and **multimodal learning**. I am especially drawn to problems where rigorous methodology meets societal value — particularly **AI for healthcare and well-being**, **explainable and trustworthy AI**, and the responsible application of **large language models** and **foundation models** to complex, data-scarce domains.
+I am honored to be a **fully funded START Research Fellow at the [Joint Institute for Nuclear Research (JINR)](https://www.jinr.ru/), Dubna**, contributing to the **TAIGA astroparticle physics collaboration** through applied machine learning for large-scale physics data analysis. I was also selected as a **fully funded participant** of the **[M2L (Mediterranean Machine Learning) Summer School 2025](https://www.m2lschool.org/)** at the University of Split, Croatia, focused on machine learning and learning theory. I additionally serve as a **peer reviewer** for the *Asian Research Journal of Mathematics*.
 
-Across my projects, I have worked on a range of applied ML problems including audio-based classification, medical diagnosis support, mental-health-related modeling, financial decision systems, and image-based recognition in agricultural settings. I enjoy working at the full stack of an ML project — from signal and feature engineering, through model design and training, to evaluation, interpretability, and clear scientific communication.
+My research interests are broad and interdisciplinary, spanning **deep learning**, **reinforcement learning**, **natural language processing**, **computer vision**, **speech and audio processing**, and **multimodal learning**. I am especially drawn to problems where rigorous methodology meets societal value, particularly **AI for healthcare and well-being**, **explainable and trustworthy AI**, **AI safety**, and the responsible application of **large language models** and **foundation models** to complex, data-scarce domains.
 
-I am currently exploring **PhD opportunities abroad** in machine learning and its applications to health, language, and human-centered AI. I'm always open to research collaborations, discussions, and new ideas — please feel free to reach out!
+Across my projects, I have worked on a wide range of applied ML problems including audio-based classification, medical diagnosis support, mental-health-related modeling (stress detection, ADHD), financial decision systems, plant disease classification, reinforcement learning agents, and acoustic steganalysis for AI-generated speech. I enjoy working at the full stack of an ML project — from signal and feature engineering, through model design and training, to evaluation, interpretability, and clear scientific communication.
+
+I am preparing to pursue a **PhD starting Fall 2027** in machine learning, with a focus on data-efficient, explainable, and trustworthy AI for human-centered applications, including health, language, and multimodal understanding. I'm actively seeking opportunities to collaborate with research groups whose work aligns with these interests. Please feel free to reach out!
