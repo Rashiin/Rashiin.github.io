@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: MSc AI Student @ Azad University Karaj | Machine Learning • Deep Learning • NLP • Speech & Healthcare AI • Reinforcement Learning • Computer Vision
+subtitle: MSc AI Student & Researcher | Machine Learning • Deep Learning • LLMs • Reinforcement Learning • Multimodal & Trustworthy AI • Healthcare AI • NLP • Computer Vision
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: true
   more_info: >
     <p>Karaj, Iran</p>
-    <p>📧farahanirashin@gmail.com</p>
-
+    <p>📧 {% raw %}{{ "farahanirashin@gmail.com" | encode_email }}{% endraw %}</p>
+    
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
