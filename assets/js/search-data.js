@@ -413,6 +413,11 @@ ninja.data = [{
           description: "Attention-guided autoencoder for one-class anomaly detection and localization",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_cbam_anomaly/";
+            },},{id: "projects-explainable-leaf-disease-classification",
+          title: 'Explainable Leaf Disease Classification',
+          description: "Lightweight hybrid-feature pipeline for plant disease detection",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_leaf_disease/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
