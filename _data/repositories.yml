@@ -3,3 +3,7 @@ github_users:
 
 github_repos:
   - Rashiin/README
+github_repos:
+  - Rashiin/smart-parking-dqn
+  - Rashiin/leaf-disease-classification
+  - Rashiin/sentiment-analysis-imdb
