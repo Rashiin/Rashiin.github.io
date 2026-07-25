@@ -403,7 +403,12 @@ ninja.data = [{
           section: "News",},{id: "news-preparing-phd-applications-for-fall-2027-focused-on-trustworthy-ai-multimodal-learning-and-ml-for-healthcare-open-to-collaboration",
           title: '🌍 Preparing PhD applications for Fall 2027 — focused on trustworthy AI, multimodal...',
           description: "",
-          section: "News",},{id: "teachings-data-science-fundamentals",
+          section: "News",},{id: "projects-medagent-verify",
+          title: 'MedAgent-Verify',
+          description: "Trustworthy agentic AI for medical question answering",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_medagent/";
+            },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
           section: "Teachings",handler: () => {
