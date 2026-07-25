@@ -2,8 +2,11 @@ github_users:
   - Rashiin
 
 github_repos:
-  - Rashiin/README
-github_repos:
-  - Rashiin/smart-parking-dqn
-  - Rashiin/leaf-disease-classification
-  - Rashiin/sentiment-analysis-imdb
+  - Rashiin/medagent-verify
+  - Rashiin/cbam-autoencoder-anomaly-detection
+  - Rashiin/leaf-disease-hybrid-xai
+  - Rashiin/Speaker-Independent-Speech-Emotion-Recognition
+  - Rashiin/Smart-Parking-RL-Intelligent-Parking-Agent-using-Deep-Reinforcement-Learning
+  - Rashiin/lightdenoise-cnn
+  - Rashiin/Ultra-Light-Image-Classifier-70-CIFAR-10-Accuracy-in-Minutes
+  - Rashiin/whale-sentiment-data-pipeline
