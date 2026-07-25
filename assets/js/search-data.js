@@ -418,7 +418,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-project-1",
+            },},{id: "news-joined-an-international-research-collaboration-as-a-funded-research-fellow-applying-machine-learning-to-large-scale-scientific-data-analysis",
+          title: '🔬 Joined an international research collaboration as a funded research fellow, applying machine...',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
