@@ -37,3 +37,72 @@
 @use "font-awesome/brands";
 @use "font-awesome/solid";
 @use "font-awesome/regular";
+
+/* =============================================================
+   MODERN GRADIENT FACELIFT — custom additions (safe to remove)
+   Targets existing al-folio classes only, so PurgeCSS keeps them.
+   ============================================================= */
+
+:root {
+  --grad-accent: linear-gradient(120deg, #7c5cff 0%, #22d3ee 55%, #f472b6 110%);
+}
+
+/* Full name rendered as gradient text on the about page */
+.post .post-header .post-title {
+  background: var(--grad-accent);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+  letter-spacing: -0.5px;
+}
+
+/* Subtitle: a touch softer and roomier */
+.post .post-header .desc {
+  opacity: 0.92;
+  margin-top: 0.35rem;
+}
+
+/* Glow around the circular profile photo */
+.profile .img-fluid {
+  box-shadow: 0 16px 50px -14px rgba(124, 92, 255, 0.55);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.profile .img-fluid:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 22px 60px -14px rgba(34, 211, 238, 0.55);
+}
+
+/* Gradient underline under section headings (news, publications, etc.) */
+.post article > h2 {
+  position: relative;
+  display: inline-block;
+  padding-bottom: 6px;
+}
+.post article > h2::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 3px;
+  width: 100%;
+  border-radius: 3px;
+  background: var(--grad-accent);
+}
+
+/* Social icons: lift + accent on hover */
+.social .contact-icons a {
+  transition: transform 0.2s ease, color 0.2s ease;
+}
+.social .contact-icons a:hover {
+  transform: translateY(-3px);
+}
+
+/* Announcement (news) rows: subtle card feel */
+.post article table td {
+  transition: background-color 0.2s ease;
+}
+.post article table tr:hover td {
+  background-color: rgba(124, 92, 255, 0.06);
+}
+
